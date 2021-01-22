@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973489999370",
+    "project_id": "rnauth-eacc6",
+    "storage_bucket": "rnauth-eacc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973489999370:android:84fe980e795d300b94d9f3",
+        "android_client_info": {
+          "package_name": "com.rnauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973489999370-mte6u8ipiockl99js6hu23pjcpqqn4ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8l-bJQfmseoRHRPz3dznepUR9F__idiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973489999370-mte6u8ipiockl99js6hu23pjcpqqn4ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
